@@ -1,0 +1,133 @@
+#EXTM3U
+
+#SERIE
+
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="SERIE",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-name="XTREME" tvg-logo="https://i.imgur.com/mF0rLRC.png" tvg-id="XTREMETV.br" group-title="SERIE",XTREMETV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1480417173.m3u8
+
+#EXTINF:-1 tvg-name="AWTV" tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-id="AWTV.br" group-title="SERIE",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-name="CLOUDINGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQQo7JRPAY5a40sPvbohInscrJIEd3ywl453CS_1GCQ9iQS-GfA-wRkEexaOla3ishSWiVADpP-UuL1Psg3QakGOcMQORka_FJOfMXH6FAZycstVXO932p965A3N1NjZ4XRkcbVLF_7Z0d0HjxTwOrzcfhmlS9icL2iM4ttFqYpxQER2SVNNouEwpeJw/s300/REDE%20CLOUDING%20TV.webp" group-title="SERIE",CLOUDINGTV
+https://stmv.webtvninjas.com.br/abner5597/abner5597/chunklist_w457852169.m3u8
+
+#EXTINF:-1 tvg-name="CANAL29" tvg-logo="https://i.imgur.com/ZgiCiuv.png" tvg-id="canal29.br" group-title="SERIE",CANAL29TV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONATA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPPGZG5AZpYH5fdiW8zJLZ3A2tVyZfguzX4HwLnJEoD12vR4U-Zvz8UyhqkFzOG-RE58d980mLn9d1Al4zzDUwb4CAEpor6v3uAtUusWkvKynl3AiaWxBLPpgrPyQDEiy50DwU9vSduSlfTbzRPF_BJIsh_n-9_kPcmv70IBiRA-NVJPRFfH2cauZzZMg/s300/TV%20SONATA.webp" tvg-id="SONATA.br" group-title="SERIE",SONATATV
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w1140080034.m3u8
+
+#EXTINF:-1 tvg-name="RETRÔ CARTON" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s300/RETR%C3%94%20CARTOON.webp" tvg-id="RETRÔ CARTON.br" group-title="SERIE",RETRÔ CARTON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w252755333.m3u8
+
+#EXTINF:-1 tvg-name="Séries Classic" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9gHk5hIJfrGrtggFnUEgZYAPddXBohvFOLPZBMt-Sop7rw2tq4aoQtWPxj7mCO5W7zCaBOuFtrV_Aqma0_OPMvZaRg_Rjy8pCmJfyj1L5BCsQhJSFQMg8zvMBotSjIWZV-tDn6Z__hIMg4Eh0ijP9iUSHxTwHf9Kp9zqS_c8rewXr1u6rnZULG0B6dC4/s300/S%C3%89RIES%20CLASSIC.webp" tvg-id="Séries Classic.br" group-title="SERIE",Séries Classic
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w201765434.m3u8
+
+#EXTINF:-1 tvg-name="CLÁSSICOS DO CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFZuiO6uo2E7eE6P4k1IIIGElprgQO2VmErcby904AY4igurL8JshdB_uEwHVc-HdkflDOX3N95oEqrbNi6iGWXEwI7ejwWuNDUX57axp1dC5YGrIhDz-P2eHsuw4pFCYwdvoT3uRL_OW0wmiynH8S2eavcAFyUMrgn00GzUs9vh1PaNc1HcqC6r1e7fM/s300/TV%20CL%C3%81SSICOS%20DO%20CINEMA.webp" tvg-id="CLÁSSICOS DO CINEMA.br" group-title="SERIE",CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="caravana play" tvg-logo="https://caravanaplay.com.br/admin/assets/img/logo.png?October272025943pm35" tvg-id="caravana play.br" group-title="SERIE",CARAVANA PLAY TV
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=0b1tbgh1
+
+#EXTINF:-1 tvg-name="SWT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevhlTy5lbPHleGcOmuf9n9gu8IuRSSHswvE6qaUBE9uGF4DX2lt5vHzym7YSAatz5zfJl9Q5BASbCzxMcxksHy9GwgXcMhSTlguJd0j5TGnsBnf6h4-4BPSTBGz3JZfl54dnYmlyH-pG0K8FuhDWkF8wzqeqXk7rY9csdx_6iTbNepCzeE_RaE9NldZQ/s300/SWT.webp" tvg-id="swt.br" group-title="SERIE",SWT
+https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8?hls_ctx=v996956o
+
+#EXTINF:-1 tvg-name="TV CHANNEL" tvg-logo="https://static.wixstatic.com/media/ac52cc_bf31c5de74a344708282bd3d55fc7464~mv2.png/v1/fill/w_151,h_198,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TV%20CHANNEL%20NETWORK%20-%20NOVA%20MARCA%20JUNHO%202025%20PNG%20SEM%20FUNDO.png" tvg-id="TV CHANNEL.br" group-title="SERIE",CHANNELTV
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1106807119.m3u8
+
+#EXTINF:-1 tvg-name="TELA BRASIL" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fill/w_84,h_55,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/telaa.png" tvg-id="tvtelabrasil.com" group-title="SERIE",TELA BRASIL
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/chunklist_w603219121.m3u8
+
+#EXTINF:-1 tvg-name="REVIVA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidI6vX-G9Rx94B57uf6cVgXqLR9oV5LmYDt7p0UseZTrBDlQWxbAyy1NBxNBKz3Vf9YUUZanaJt32qvkocCfDBuAKINz6WKghzSGk3QYX-lplCCHTWZAe-7xkFyKoNRi7xyG27n6eBVg2TOdWS_n-z6lLwtNSrM5Ie_H5X9qGyEBrMIaf5djnBL9nEUWc/s300/REVIVA%20TV.webp" tvg-id="reviva.br" group-title="SERIE",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1714429586.m3u8
+
+#EXTINF:-1 tvg-name="TELEWEB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV45avCGZfG1hqTWTx2iDWzDHzps2tI9HJT0qFnb2yciWs5homg-CnlvBgJ5oCgohkiPB8LU0QAKUidaocklpCGkeURwjdKjROLmzbAbRC7HOimljBxPse2XIB_U7fx-s6wfLxtn26OhH5IJqwMjuRYIJu335avW1xN5HCYdWq0fZhZivSKcbDgoMNC8I/s300/TELEWEB%20TV.webp" tvg-id="TELEWEB.br" group-title="SERIE",TELEWEB TV
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w1087549494.m3u8
+
+#EXTINF:-1 tvg-name="CLASSIQUE TV SÉRIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2QMkejvf3FYgBNG4K91lAR-8cTFOGAbcJTP1IahFGcZAeq-1oPtZDd9PbuKRYPkGkPWB_CAZ6XQ8SsEpyPKJ8AWSIqlalwPM9XmxlaLtqbpd9NwD14z34Ut3ZO_Fs2I1PxUpvjw9tRXFSAo0WFaffFiXEw2TUaCsvxJegctPnwVjjr18dtrLy74UVoJI/s300/CLASSIQUE%20TV.webp" tvg-id="CLASSIQUE TV SÉRIES.br" group-title="SERIE",CLASSIQUE TV SÉRIES
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/chunklist_w128155080.m3u8
+
+#EXTINF:-1 tvg-name="BS-TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuzFIG9AnbTiIIbq7QR7VJ99fLTSV-ME3jIDkTJ_HBDoSjkR2dosfG4L75iX5uwdRKHPtPgKQI4-24PDQQyEsxW00CQ0WPyqWbx5Rzzo3WbZd__S1yk-qe0EH50qEeFqODjanb46NtbU0SB8KPuv6t35_ohjxQO7goC2uP67ZUa3cT_lcHM5ROB_bAaak/s300/BS-TV%20ONLINE.webp" tvg-id="BS-TV.br" group-title="SERIE",BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" tvg-id="RedeBrasil.br" group-title="SERIE",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV POMPEIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn0nl3m2GNTFzS1HlrJSEIXdfWaFHy_ebq9Yi0OxJUi1uWdaOJNqPh258Pw24mfQtyfU2WzfZOTIPyXvMnYgdxZAzFKz6e33-mW3rnmYMzA6xituk2LO6uiZgyoeJO21BrEgoPa-Ca42lXRRNKen-u7JoJXxbxUCZr_ZZsp1kp62S9mPhLj5pKYBNWmug/s300/TV%20POMPEIA.webp" tvg-id="TV POMPEIA.br" group-title="SERIE",TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+
+
+
+
+
+
+#FILME
+
+
+#EXTINF:-1 tvg-name="MOVIESPHERE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMr9bVetffxTFtoOG7kTDQb0hAEskWzDIMUMuRVWWoCbGPB6LcTBZaqtrHVUt7ixbqpQV_QVebQ0jO9akUEPSn9rHM0M1SBXE_m77XY0XW17-1ChRfa1_juKcCByjiBCljRtd9ICzFiw3_HaIe1BlkSKktCNZ5as5XxvMm645DLiIPDttv4w3VNzWZ02Y/s300/MOVIESPHERE%20BRAZIL.webp" tvg-id="MOVIESPHERE.br" group-title="FILME",MOVIESPHERE TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 tvg-name="CHANNEL 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheQBsZ42O2Gpoazllh8-HIpU5j1wxl-5aKE_q-adBC-hS5_cqHoyhXiwt83r7b81jDR8d1VvdllHM0NfL4HwAF-9Zb9rsNndz4II6s-yjV3oSiiAL9LOFlCGc0xCG3hV05EUmhc_vNyLG06P-WB8WVykkb_CR4bllne8HqGtF52MblUqepL_z4IPV1HWI/s300/CHANNEL%201.webp" tvg-id="CHANNEL1.br" group-title="FILME",CHANNEL 1 TV
+https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w353241420.m3u8
+
+#EXTINF:-1 tvg-name="GRJNGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY2sigrfyvcWJA8KS5HzoVIEhaB4V9JxzxlST01SPSyPR6ugp41eZgqE1sEOq3XY6X9i7ROWFC5MpCCVlYxpUdNKuqvduUQ3unQpyGW54KGOZL4pfKcwlQDaR17ePR4EQ_K9BlkiH8aganbGcw9i8xuiQorebt1UzWGDHr-pEEoExvnKlCltA1pwJ85qw/s300/GRJNGO.webp" tvg-id="GRJNGO.br" group-title="FILME",GRJNGOTV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-name="TV Web São Luís Canoas RS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnpWClBsG7pSXK25nejt1UNv2U8hjGCYOTwjYlbch4Pa0Q0z2Mz4ooEZgSnZbzQ1QyqKtaPhwtldb6tKVZB3cjq1Dgq3SxvnjSfLxbShVX1eOS4S6JK3EF1a0xsPr08Wc3LiH8zZJ6NEpDDqaNBIXJG48-mZ1KIqYPILTUrJIZQLWZK4Sp9i16ylVaTo/s300/CANAL%20SEM%20LOGO.webp" tvg-id="TV Web São Luís Canoas RS.br" group-title="FILME",TV Web São Luís Canoas RS
+https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8?hls_ctx=y9n77p3e
+
+#EXTINF:-1 tvg-name="GLNTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eEG26n6b4SOVAkwgabHiRzAqpvJo80Da_Q8Tjt6oO5WrWmisUTMMUm4ihEKwWX8RtqppXmxr6szY5skdwQqC32Tkyw5vkKfAEFPTSY1YAPGO8Glmec5LUzcQk1ndg36A2u8Z2k4Dugru21yTTditwKSDW3q9BXrV-1eMinvM2RkJ8IKlXGBXUtJ8oGE/s300/GLN%20TV.webp" tvg-id="gln.br" group-title="FILME",GLNTV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=l6ipk649
+
+#EXTINF:-1 tvg-name="LUCASTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizaaz2q5gh_LZSOleJw7yQb9FNnwH6ZJjFeaex4WhwFEueZmsB1YccrStJeEiMgbAEgNScQrY3-FD1WTMnRcvHAx9JBpKhD4lbNabtYO7SMBoWwSYD7sqMkkL8cwU6Som028A6ohp4Xr7B-kVjAnXWtOjyo2_Wme3RF4Sk61dhkyLC0cpcTX2AdQxhjMM/s300/LUCAS%20TV.webp" tvg-id="LUCASTV.br" group-title="FILME",LUCASTV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVSANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCSHJluv_IsztiDdBM7czfFkRf5RJ5-treA4JQ8Rt4abd43BUa62e2GhZzwTGnzXEfcupkTFzuRTvwov_xSzmatERisHkhHaJTjY1oUVVm36BxH3GsXvvK-LM-oEi8sWyK9elwpf0yDqnQRBBd9fi_JvqSjqDNBa3BbOUBf2MkXd927lSyJze3NYn_lXA/s300/TV%20SANTA.webp" tvg-id="TVSANTA.br" group-title="FILME",TVSANTA
+https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w763413919.m3u8
+
+#EXTINF:-1 tvg-name="bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_DEsfAZw.png" tvg-id="bradoky.br" group-title="FILME",BRADOKY
+https://video01.soultv.com.br/bradoky/bradoky/chunklist_w1890870881.m3u8
+
+#EXTINF:-1 tvg-name="Drakflix" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/DARK_FLIX_-_logo_-_soul_reduzido_1EoBqbu.png" tvg-id="Drakflix.br" group-title="FILME",DRAKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/chunklist_w1729422229.m3u8
+
+
+
+#DESENHO
+
+#EXTINF:-1 tvg-name="WORDING" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwosZywu_X-Etyzz4DT3lkbiIck0egUvlx_DG_ZWJXbDyDsNd2ePQlK3lEQuXFebAmUMizdLcxXCkWhG8ad2f8-OUeO6RMgmvUMxwVM7PhVrNYXlrzSpxEknVDdd6zoZu4S96rKAg9kizL1abCVL6cutCTVFEp2Xd6E8XDVhdUpNaPidq7K4NezKfoBbY/s300/WORDING%20TV.webp" tvg-id="WORDING.br" group-title="DESENHO",WORDINGTV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w271960434.m3u8
+
+#EXTINF:-1 tvg-name="JOYFLIX" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/WhatsApp_Image_2025-10-04_at_07.05.56_EvEO4G8.jpeg" tvg-id="JOYFLIX.br" group-title="DESENHO",JOYFLIX
+https://streaming.cloudecast.com/hls/joyflix/index.m3u8
+
+#EXTINF:-1 tvg-name="MITV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReDsWMBP5nn_ewWFL8dnjd3YHyicSM-Z-ziTZ7e8M3MCFpVWex2sNYVO8gXsjFKECzN8iaAMBhV3PTNhiqG2SiVgJ2_mjzmINNHR4P4raujuM4eSq5jBM4jVfRv2fW_p7kary_KyJZ8pNhs-qJ5oDE18x9jx93ZFBmn4IoUyVXee-3rZu1oDtpA904CA/s300/MI%20TV.webp" tvg-id="MITV.br" group-title="DESENHO",MITV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=44pjs52t
+
+#EXTINF:-1 tvg-name="REDE SHOW TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ-hpzPsaK_i_s25z9jpmfr4HTfUzXu-gvYvkcae7FQO_BaFJdtqs30O_dtWeeJmv50wFQp8aIuMNpPdzSQWO37QFGneu5viWn5BLd2bScIfQ6r-10jxnbPBmU9YkXqDcokUMDDKxUrhiym2hbOd3tloVlMkAUMcQgpU29FagCz_JtP0zvFrmF40inNko/s300/REDE%20SHOW%20TV.webp" tvg-id="REDE SHOW TV.br" group-title="DESENHO",REDE SHOW TV
+https://stmv8.samcast.com.br/magdareches1589/magdareches1589/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANUCA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik4v7IQQxkJgz6QXkA9ACOmfSQIwRNAClzMpYVrtva7OUtDLQ4eMS-cmEAyXnk84rAjDeMrn4gQjueUT6HnqA2MzCg5dTlbyLt1xQYDq45DSM1zSQtGN7DErdcqMfmEOARyp26LASqWaD4QOkcxhzzg0cDM0wxgfXZXG9YgJ41mBMQmqGTMxSVDuZFqPw/s300/KANUCA%20TV%20BRASIL.webp" tvg-id="KANUCA.br" group-title="DESENHO",KANUCATV
+https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w2058191803.m3u8
+
+#EXTINF:-1 tvg-name="NTC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDgOYmuqoUOUheCvaRHazkyxnCcP3rW1z7liXG1tvSz2NkgPn0WDClyvBM0LlD88YBLCYYdqZcsRJzl7aud2KaYJy8xP6Lc7KLePer2R2eaH8NbYJBsvO0kVzZc8QgDc3pnom7dZzDQBHWfeCam-iRxL7FueWqgioWoCqsPGgC6H966Esp1xzhOLIwa40/s300/NTC%20PLAY.webp" tvg-id="NTC PLAY.br" group-title="DESENHO",NTC PLAY
+https://stmv1.video.brstream.com.br/matheusdeoliveira7374/matheusdeoliveira7374/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JETSONS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS3X8mNdeLfqxo3yHHKf5MtVuudJ13Hy123AKtPXRdZ_m_gzqarwt7_h-LW12zalXijS3bSKraS53IdBvBB76E4HV_4ZQThPuy5uRBUZf-jv17Q8O83IzoxwdWLTJVziSg1nefIeYB_Ff9_l6_UslVXc1i8QPY4sofXasMNGtuPPuJAoUH0MPoxtp9HAg/s300/JETSONS%20TV.webp" tvg-id="JETSONS.br" group-title="DESENHO",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TOON GOGGLES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvzV1uaLYPHjqgZ37ov7fK98nIqpJOVtrhCfwHNqPzUdocO74B4PYIEFn9le7F4IQu752cvH5LHWsAjpdagiyTqZfZTB57CYf0EBeoQBKBHnZHZbZBnk2Agfrlb1cq76yWrCDV8sFbv9tSwVlhE919bF8wuGcRngby00YQ9fJSREGU_OLIPpJOTJsRuPw/s300/TOON%20GOGGLES%20BRASIL.webp" tvg-id="TOON GOGGLES.br" group-title="DESENHO",TOON GOGGLES TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-name="geekdot" tvg-logo="https://imgs.search.brave.com/Rdt9z91ySdJPF_471zx5OsYU1KoSfHL1NFnk_CrB_ys/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dGVjaG5ldHR2LmNv/bS9jaGFubmVsLzI0/NzQ2L2xvZ29fMjU2/XzE3MTMxOTQyOTgu/cG5n" tvg-id="geekdot.live" group-title="DESENHO",GEEKDOT TV
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+
+
+
+
+
+
+
