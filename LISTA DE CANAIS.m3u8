@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url=
 
 #SERIE
 
@@ -119,6 +119,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 tvg-name="geekdot" tvg-logo="https://imgs.search.brave.com/Rdt9z91ySdJPF_471zx5OsYU1KoSfHL1NFnk_CrB_ys/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dGVjaG5ldHR2LmNv/bS9jaGFubmVsLzI0/NzQ2L2xvZ29fMjU2/XzE3MTMxOTQyOTgu/cG5n" tvg-id="geekdot.live" group-title="DESENHO",GEEKDOT TV
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
+
 
 
 
