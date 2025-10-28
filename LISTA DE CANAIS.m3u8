@@ -88,9 +88,11 @@ https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVSANTA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCSHJluv_IsztiDdBM7czfFkRf5RJ5-treA4JQ8Rt4abd43BUa62e2GhZzwTGnzXEfcupkTFzuRTvwov_xSzmatERisHkhHaJTjY1oUVVm36BxH3GsXvvK-LM-oEi8sWyK9elwpf0yDqnQRBBd9fi_JvqSjqDNBa3BbOUBf2MkXd927lSyJze3NYn_lXA/s300/TV%20SANTA.webp" tvg-id="TVSANTA.br" group-title="FILME",TVSANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w763413919.m3u8
 
+#EXTINF:-1 tvg-name="bradoky" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/BRADOKY_-_logo_2_-_Transp_reduz_DEsfAZw.png" tvg-id="bradoky.br" group-title="FILME",BRADOKY
+https://video01.soultv.com.br/bradoky/bradoky/chunklist_w1890870881.m3u8
 
-
-
+#EXTINF:-1 tvg-name="Drakflix" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/DARK_FLIX_-_logo_-_soul_reduzido_1EoBqbu.png" tvg-id="Drakflix.br" group-title="FILME",DRAKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/chunklist_w1729422229.m3u8
 
 
 
@@ -98,6 +100,9 @@ https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w763413919.m3u8
 
 #EXTINF:-1 tvg-name="WORDING" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwosZywu_X-Etyzz4DT3lkbiIck0egUvlx_DG_ZWJXbDyDsNd2ePQlK3lEQuXFebAmUMizdLcxXCkWhG8ad2f8-OUeO6RMgmvUMxwVM7PhVrNYXlrzSpxEknVDdd6zoZu4S96rKAg9kizL1abCVL6cutCTVFEp2Xd6E8XDVhdUpNaPidq7K4NezKfoBbY/s300/WORDING%20TV.webp" tvg-id="WORDING.br" group-title="DESENHO",WORDINGTV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w271960434.m3u8
+
+#EXTINF:-1 tvg-name="JOYFLIX" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/WhatsApp_Image_2025-10-04_at_07.05.56_EvEO4G8.jpeg" tvg-id="JOYFLIX.br" group-title="DESENHO",JOYFLIX
+https://streaming.cloudecast.com/hls/joyflix/index.m3u8
 
 #EXTINF:-1 tvg-name="MITV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReDsWMBP5nn_ewWFL8dnjd3YHyicSM-Z-ziTZ7e8M3MCFpVWex2sNYVO8gXsjFKECzN8iaAMBhV3PTNhiqG2SiVgJ2_mjzmINNHR4P4raujuM4eSq5jBM4jVfRv2fW_p7kary_KyJZ8pNhs-qJ5oDE18x9jx93ZFBmn4IoUyVXee-3rZu1oDtpA904CA/s300/MI%20TV.webp" tvg-id="MITV.br" group-title="DESENHO",MITV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=44pjs52t
@@ -119,15 +124,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 tvg-name="geekdot" tvg-logo="https://imgs.search.brave.com/Rdt9z91ySdJPF_471zx5OsYU1KoSfHL1NFnk_CrB_ys/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dGVjaG5ldHR2LmNv/bS9jaGFubmVsLzI0/NzQ2L2xvZ29fMjU2/XzE3MTMxOTQyOTgu/cG5n" tvg-id="geekdot.live" group-title="DESENHO",GEEKDOT TV
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
